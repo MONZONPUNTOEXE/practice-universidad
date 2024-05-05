@@ -7,12 +7,12 @@
   - [Ejercicio 6](#ejercicio-6)
   - [Ejercicio 7](#ejercicio-7)
   - [Ejercicio 8](#ejercicio-8)
-  - [Ejercicio 9](#ejercicio-9)
-  - [Ejercicio 10](#ejercicio-10)
-  - [Ejercicio 11](#ejercicio-11)
-  - [Ejercicio 12](#ejercicio-12)
-  - [Ejercicio 14](#ejercicio-14)
-  - [Ejercicio 15](#ejercicio-15)
+  - [Ejercicio 9](#ejercicio-9)
+  - [Ejercicio 10](#ejercicio-10)
+  - [Ejercicio 11](#ejercicio-11)
+  - [Ejercicio 12](#ejercicio-12)
+  - [Ejercicio 14](#ejercicio-14)
+  - [Ejercicio 15](#ejercicio-15)
 
   - [Ejercicio 16](#ejercicio-16)
 
