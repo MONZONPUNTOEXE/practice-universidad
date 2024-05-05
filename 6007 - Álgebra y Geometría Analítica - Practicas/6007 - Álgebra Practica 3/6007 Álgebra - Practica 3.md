@@ -13,16 +13,11 @@
   - [Ejercicio 12](#ejercicio-12)
   - [Ejercicio 14](#ejercicio-14)
   - [Ejercicio 15](#ejercicio-15)
-
-  - [Ejercicio 16](#ejercicio-16)
-
-  - [Ejercicio 17](#ejercicio-17)
-
-  - [Ejercicio 18](#ejercicio-18)
-
-  - [Ejercicio 19](#ejercicio-19)
-
-  - [Ejercicio 20](#ejercicio-20)
+  - [Ejercicio 16](#ejercicio-16)
+  - [Ejercicio 17](#ejercicio-17)
+  - [Ejercicio 18](#ejercicio-18)
+  - [Ejercicio 19](#ejercicio-19)
+  - [Ejercicio 20](#ejercicio-20)
 
   - [Ejercicio 21](#ejercicio-21)
 
