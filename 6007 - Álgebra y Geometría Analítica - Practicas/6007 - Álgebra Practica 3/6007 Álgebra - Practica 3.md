@@ -18,20 +18,13 @@
   - [Ejercicio 18](#ejercicio-18)
   - [Ejercicio 19](#ejercicio-19)
   - [Ejercicio 20](#ejercicio-20)
-
-  - [Ejercicio 21](#ejercicio-21)
-
-  - [Ejercicio 22](#ejercicio-22)
-
-  - [Ejercicio 23](#ejercicio-23)
-
-  - [Ejercicio 24](#ejercicio-24)
-
-  - [Ejercicio 25](#ejercicio-25)
-
-  - [Ejercicio 26](#ejercicio-26)
-
-  - [Ejercicio 27](#ejercicio-27)
+  - [Ejercicio 21](#ejercicio-21)
+  - [Ejercicio 22](#ejercicio-22)
+  - [Ejercicio 23](#ejercicio-23)
+  - [Ejercicio 24](#ejercicio-24)
+  - [Ejercicio 25](#ejercicio-25)
+  - [Ejercicio 26](#ejercicio-26)
+  - [Ejercicio 27](#ejercicio-27)
 
 
 # Ejercicio 1:
