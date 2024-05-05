@@ -29,11 +29,11 @@
 
 # Ejercicio 3
 
-![[Pasted image 20240502104422.png]]
+![](Pasted-image-20240502104422.png)
 
  
 # Ejercicio 4
-![[Pasted image 20240502105453.png]] 
+![](Pasted image 20240502105453.png) 
 
 # Ejercicio 5
 
