@@ -11,7 +11,7 @@
   - [Ejercicio 10](#ejercicio-10)
   - [Ejercicio 11](#ejercicio-11)
   - [Ejercicio 12](#ejercicio-12)
-  - [Ejercicio 14, 15 y 16](#ejercicio-14,-15-y-16)
+  - [Ejercicio 14, 15 y 16](#ejercicio-1415-y-16)
   - [Ejercicio 17](#ejercicio-17)
   - [Ejercicio 18](#ejercicio-18)
   - [Ejercicio 20](#ejercicio-20)
@@ -33,11 +33,11 @@
 
  
 # Ejercicio 4
-![](Pasted image 20240502105453.png) 
+![](Pasted-image-20240502105453.png) 
 
 # Ejercicio 5
 
-![[Pasted image 20240502105604.png]]
+![](Pasted-image-20240502105604.png)
 
 
 
@@ -92,7 +92,7 @@
 
 ![ ](Pasted-image-20240502212849.png)
 
-# Ejercicio-14,-15-y-16
+# Ejercicio-14,15 y 16
 ![ ](Pasted-image-20240502214414.png)
 
 ![ ](Pasted-image-20240502222124.png)
