@@ -29,7 +29,7 @@
 
 # Ejercicio 3
 
-![](Pasted-image-20240502104422.png)
+![perrrowerwe](Pasted-image-20240502104422.png)
 
  
 # Ejercicio 4
@@ -42,12 +42,12 @@
 
 
 # Ejercicio 6
-![ ](Pasted image 20240502111542.png)
+![](Pasted image 20240502111542.png)
 
 ![ ](Pasted image 20240502114757.png)
 
 # Ejercicio 7
-![ ](Pasted image 20240502122105.png)
+![](Pasted image 20240502122105.png)
 
 ![ ](Pasted image 20240502122235.png)
 
@@ -85,7 +85,7 @@
 
 ![ ](Pasted image 20240502192757.png)
 
-![ ](Pasted image 20240502210420.png)
+![perro](Pasted image 20240502210420.png)
 
 # Ejercicio 12
 ![ ](Pasted image 20240502212537.png)
