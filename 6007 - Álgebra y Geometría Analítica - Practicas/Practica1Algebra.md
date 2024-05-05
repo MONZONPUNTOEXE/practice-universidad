@@ -20,25 +20,27 @@
   - [Ejercicio 23](#ejercicio-23)
   - [Ejercicio 25](#ejercicio-25)
 
-
 # Ejercicio 1:
+![alt text](<Pasted image 20240505030809.png>)
 
+![](<Pasted image 20240505030416.png>)
 
+![alt text](<Pasted image 20240505030742.png>)
 # Ejercicio 2:
-
+![alt text](<Pasted image 20240505030834.png>)
 
 # Ejercicio 3:
 
 ![perrrowerwe](Pasted-image-20240502104422.png)
 
- 
+ ![alt text](<Pasted image 20240505031329.png>)
 # Ejercicio 4:
 ![](Pasted-image-20240502105453.png) 
-
+![alt text](<Pasted image 20240505031245.png>)
 # Ejercicio 5:
 
 ![](Pasted-image-20240502105604.png)
-
+![alt text](<Pasted image 20240505031135.png>)
 
 
 # Ejercicio 6:
